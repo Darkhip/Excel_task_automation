@@ -1,4 +1,4 @@
-# Autonation converting information from text file into Excel table
+# Automation of converting information from text file into Excel table
 # Автоматизация переноса данных из текстового файла в таблицу Excel
 
 from openpyxl import Workbook
